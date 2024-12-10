@@ -40,7 +40,7 @@ The script takes a CSV file as input, performs a detailed analysis using Python 
    - Prepares the dataset for additional visualizations based on GPT suggestions.
 
 
-## *Use Case: Goodreads Dataset*
+## *Use Case: Happiness Dataset*
 
 ### Sample Dataset Overview
 The happiness dataset contains information about books, including:
@@ -118,7 +118,7 @@ The GPT model enhances the analysis by:
 
 ## *Results*
 
-For the Goodreads dataset:
+For the Happiness dataset:
 - Correlations revealed that GDP and social support had the strongest relationships with happiness scores.
 - Outliers included countries with low corruption but relatively low happiness scores.
 - GPT-4o-mini suggested:
