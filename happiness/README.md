@@ -1,6 +1,6 @@
 # *Dataset Analysis using GPT-4o-mini*
 
-This project is a Python-based tool to perform generic analysis on any dataset, including the Happiness dataset (sample provided in the uploaded file). It leverages an OpenAI GPT model (gpt-4o-mini) to analyze datasets dynamically and suggest advanced insights.
+This project is a Python-based tool to perform generic analysis on any dataset, including the Happiness dataset. It leverages an OpenAI GPT model (gpt-4o-mini) to analyze datasets dynamically and suggest advanced insights.
 
 
 ## *Project Overview*
