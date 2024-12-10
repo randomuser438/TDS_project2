@@ -128,6 +128,7 @@ For the Goodreads dataset:
 
 
 ## *Limitations*
+
 - The GPT model relies on the quality of the summary provided. Ensure accurate data preprocessing before querying the LLM.
 - Outlier and cluster detection may require tuning parameters for datasets with different scales or distributions.
 
