@@ -1,6 +1,6 @@
 # *Dataset Analysis using GPT-4o-mini*
 
-This project is a Python-based tool to perform generic analysis on any dataset, including the Goodreads dataset (sample shown in the uploaded image). It uses an OpenAI GPT model (gpt-4o-mini) to analyze datasets dynamically and provide suggestions for further insights.
+This project is a Python-based tool to perform generic analysis on any dataset, including the Goodreads dataset. It uses an OpenAI GPT model (gpt-4o-mini) to analyze datasets dynamically and provide suggestions for further insights.
 
 
 ## *Project Overview*
